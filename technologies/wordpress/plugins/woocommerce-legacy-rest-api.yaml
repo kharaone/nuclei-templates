@@ -1,24 +1,24 @@
-id: wordpress-ninja-forms
+id: wordpress-woocommerce-legacy-rest-api
 
 info:
-  name: Ninja Forms – The Contact Form Builder That Grows With You Detection
+  name: WooCommerce Legacy REST API Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/ninja-forms/
+    - https://wordpress.org/plugins/woocommerce-legacy-rest-api/
   metadata:
-    plugin_namespace: ninja-forms
-    wpscan: https://wpscan.com/plugin/ninja-forms
-  tags: tech,wordpress,wp-plugin,top-100,top-200
+    plugin_namespace: woocommerce-legacy-rest-api
+    wpscan: https://wpscan.com/plugin/woocommerce-legacy-rest-api
+  tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/ninja-forms/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/woocommerce-legacy-rest-api/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/ninja-forms.txt
+      last_version: helpers/wordpress/plugins/woocommerce-legacy-rest-api.txt
 
     extractors:
       - type: regex
