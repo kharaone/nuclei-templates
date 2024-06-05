@@ -1,7 +1,7 @@
 id: wordpress-hostinger
 
 info:
-  name: Hostinger Detection
+  name: Hostinger Tools Detection
   author: ricardomaia
   severity: info
   reference:

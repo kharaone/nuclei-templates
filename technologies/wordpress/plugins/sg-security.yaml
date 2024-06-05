@@ -1,7 +1,7 @@
 id: wordpress-sg-security
 
 info:
-  name: Security Optimizer – The All-In-One WordPress Protection Plugin Detection
+  name: Security Optimizer – The All-In-One Protection Plugin Detection
   author: ricardomaia
   severity: info
   reference:
