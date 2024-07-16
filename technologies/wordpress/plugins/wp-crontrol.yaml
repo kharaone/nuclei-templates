@@ -1,24 +1,24 @@
-id: wordpress-woocommerce-paypal-payments
+id: wordpress-wp-crontrol
 
 info:
-  name: WooCommerce PayPal Payments Detection
+  name: WP Crontrol Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/woocommerce-paypal-payments/
+    - https://wordpress.org/plugins/wp-crontrol/
   metadata:
-    plugin_namespace: woocommerce-paypal-payments
-    wpscan: https://wpscan.com/plugin/woocommerce-paypal-payments
-  tags: tech,wordpress,wp-plugin,top-100,top-200
+    plugin_namespace: wp-crontrol
+    wpscan: https://wpscan.com/plugin/wp-crontrol
+  tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/woocommerce-paypal-payments/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/wp-crontrol/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/woocommerce-paypal-payments.txt
+      last_version: helpers/wordpress/plugins/wp-crontrol.txt
 
     extractors:
       - type: regex
