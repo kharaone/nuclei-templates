@@ -1,24 +1,24 @@
-id: wordpress-wpvivid-backuprestore
+id: wordpress-aryo-activity-log
 
 info:
-  name: Migration, Backup, Staging – WPvivid Backup & Migration Detection
+  name: Activity Log – Monitor & Record User Changes Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/wpvivid-backuprestore/
+    - https://wordpress.org/plugins/aryo-activity-log/
   metadata:
-    plugin_namespace: wpvivid-backuprestore
-    wpscan: https://wpscan.com/plugin/wpvivid-backuprestore
-  tags: tech,wordpress,wp-plugin,top-100,top-200
+    plugin_namespace: aryo-activity-log
+    wpscan: https://wpscan.com/plugin/aryo-activity-log
+  tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/wpvivid-backuprestore/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/aryo-activity-log/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/wpvivid-backuprestore.txt
+      last_version: helpers/wordpress/plugins/aryo-activity-log.txt
 
     extractors:
       - type: regex
