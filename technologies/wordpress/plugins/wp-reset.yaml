@@ -1,7 +1,7 @@
 id: wordpress-wp-reset
 
 info:
-  name: WP Reset – Most Advanced WordPress Reset Tool Detection
+  name: WP Reset Detection
   author: ricardomaia
   severity: info
   reference:
