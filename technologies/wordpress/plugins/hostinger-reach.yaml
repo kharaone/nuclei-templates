@@ -1,24 +1,24 @@
-id: wordpress-sureforms
+id: wordpress-hostinger-reach
 
 info:
-  name: SureForms – Contact Form, Custom Form Builder, Calculator & More Detection
+  name: Hostinger Reach – AI-Powered Email Marketing for WordPress Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/sureforms/
+    - https://wordpress.org/plugins/hostinger-reach/
   metadata:
-    plugin_namespace: sureforms
-    wpscan: https://wpscan.com/plugin/sureforms
+    plugin_namespace: hostinger-reach
+    wpscan: https://wpscan.com/plugin/hostinger-reach
   tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/sureforms/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/hostinger-reach/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/sureforms.txt
+      last_version: helpers/wordpress/plugins/hostinger-reach.txt
 
     extractors:
       - type: regex
