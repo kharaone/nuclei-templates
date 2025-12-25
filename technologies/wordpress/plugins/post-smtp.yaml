@@ -1,7 +1,7 @@
 id: wordpress-post-smtp
 
 info:
-  name: Post SMTP – Complete SMTP Solution with Logs, Alerts, Backup SMTP & Mobile App Detection
+  name: Post SMTP – Complete Email Deliverability and SMTP Solution with Email Logs, Alerts, Backup SMTP & Mobile App Detection
   author: ricardomaia
   severity: info
   reference:
