@@ -1,7 +1,7 @@
 id: wordpress-breeze
 
 info:
-  name: Breeze – WordPress Cache Plugin Detection
+  name: Breeze Cache Detection
   author: ricardomaia
   severity: info
   reference:
