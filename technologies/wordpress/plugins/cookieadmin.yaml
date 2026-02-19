@@ -1,24 +1,24 @@
-id: wordpress-elementskit-lite
+id: wordpress-cookieadmin
 
 info:
-  name: ElementsKit Elementor Addons – Advanced Widgets & Templates Addons for Elementor Detection
+  name: CookieAdmin – Cookie Consent Banner Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/elementskit-lite/
+    - https://wordpress.org/plugins/cookieadmin/
   metadata:
-    plugin_namespace: elementskit-lite
-    wpscan: https://wpscan.com/plugin/elementskit-lite
-  tags: tech,wordpress,wp-plugin,top-100,top-200
+    plugin_namespace: cookieadmin
+    wpscan: https://wpscan.com/plugin/cookieadmin
+  tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/elementskit-lite/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/cookieadmin/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/elementskit-lite.txt
+      last_version: helpers/wordpress/plugins/cookieadmin.txt
 
     extractors:
       - type: regex
