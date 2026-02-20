@@ -1,7 +1,7 @@
 id: wordpress-wpvivid-backuprestore
 
 info:
-  name: Migration, Backup, Staging – WPvivid Backup & Migration Detection
+  name: WPvivid — Backup, Migration & Staging Detection
   author: ricardomaia
   severity: info
   reference:
