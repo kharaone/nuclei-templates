@@ -1,7 +1,7 @@
 id: wordpress-facebook-for-woocommerce
 
 info:
-  name: Facebook for WooCommerce Detection
+  name: Meta for WooCommerce Detection
   author: ricardomaia
   severity: info
   reference:
