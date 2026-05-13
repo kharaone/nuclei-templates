@@ -1,7 +1,7 @@
 id: wordpress-translatepress-multilingual
 
 info:
-  name: Translate Multilingual sites – TranslatePress Detection
+  name: TranslatePress – Translate Multilingual sites with AI Translation Detection
   author: ricardomaia
   severity: info
   reference:
