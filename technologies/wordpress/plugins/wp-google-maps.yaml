@@ -1,7 +1,7 @@
 id: wordpress-wp-google-maps
 
 info:
-  name: WP Go Maps – Google Maps, OpenStreetMap, Leaflet Map Detection
+  name: WP Go Maps – Google Map, OpenStreetMap, Leaflet Map Detection
   author: ricardomaia
   severity: info
   reference:
