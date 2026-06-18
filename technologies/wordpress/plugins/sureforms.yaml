@@ -1,7 +1,7 @@
 id: wordpress-sureforms
 
 info:
-  name: SureForms – Drag & Drop Contact Form, Payment Form, Survey, Quiz, Calculator & Custom Form Builder Detection
+  name: SureForms – Drag & Drop Contact Form & Form Builder, Payment Form, Survey, Quiz & Calculator Detection
   author: ricardomaia
   severity: info
   reference:
