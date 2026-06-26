@@ -1,24 +1,24 @@
-id: wordpress-wpforms-lite
+id: wordpress-broken-link-checker-seo
 
 info:
-  name: WPForms – AI Form Builder for WordPress – Contact Forms, Payment Forms, Survey Form, Quiz & More Detection
+  name: Broken Link Checker by AIOSEO – Find & Fix Broken Internal, External & Video Links Detection
   author: ricardomaia
   severity: info
   reference:
-    - https://wordpress.org/plugins/wpforms-lite/
+    - https://wordpress.org/plugins/broken-link-checker-seo/
   metadata:
-    plugin_namespace: wpforms-lite
-    wpscan: https://wpscan.com/plugin/wpforms-lite
-  tags: tech,wordpress,wp-plugin,top-100,top-200
+    plugin_namespace: broken-link-checker-seo
+    wpscan: https://wpscan.com/plugin/broken-link-checker-seo
+  tags: tech,wordpress,wp-plugin,top-200
 
 requests:
   - method: GET
 
     path:
-      - "{{BaseURL}}/wp-content/plugins/wpforms-lite/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/broken-link-checker-seo/readme.txt"
 
     payloads:
-      last_version: helpers/wordpress/plugins/wpforms-lite.txt
+      last_version: helpers/wordpress/plugins/broken-link-checker-seo.txt
 
     extractors:
       - type: regex
