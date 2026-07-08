@@ -1,7 +1,7 @@
 id: wordpress-pojo-accessibility
 
 info:
-  name: Ally – Web Accessibility & Usability Detection
+  name: Web Accessibility (formally known as Ally) – WCAG Scanning, Guided Fixes, Usability Widget Detection
   author: ricardomaia
   severity: info
   reference:

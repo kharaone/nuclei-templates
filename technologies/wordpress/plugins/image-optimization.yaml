@@ -1,7 +1,7 @@
 id: wordpress-image-optimization
 
 info:
-  name: Image Optimizer – Optimize Images and Convert to WebP or AVIF Detection
+  name: Image Optimization – Compress Images and Convert to WebP or AVIF Detection
   author: ricardomaia
   severity: info
   reference:
