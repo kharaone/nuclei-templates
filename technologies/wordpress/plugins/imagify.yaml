@@ -1,7 +1,7 @@
 id: wordpress-imagify
 
 info:
-  name: Imagify' Optimize Images for Top Speed (Compress & Convert to WebP/AVIF) Detection
+  name: Imagify Image Optimization' Optimize Images | Compress & Convert to WebP/AVIF Detection
   author: ricardomaia
   severity: info
   reference:
