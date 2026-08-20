@@ -1,7 +1,7 @@
 id: wordpress-cookie-notice
 
 info:
-  name: Compliance by Hu-manity.co Detection
+  name: Cookie Compliance for WordPress – Cookie Consent, GDPR & CCPA Detection
   author: ricardomaia
   severity: info
   reference:

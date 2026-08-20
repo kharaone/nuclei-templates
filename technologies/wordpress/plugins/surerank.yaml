@@ -1,7 +1,7 @@
 id: wordpress-surerank
 
 info:
-  name: SureRank SEO – Smart Assistant with Meta Tags, Social Preview, XML Sitemap, and Schema Detection
+  name: SureRank SEO – Meta Tags, Social Preview, XML Sitemap, Schema & Open Graph Detection
   author: ricardomaia
   severity: info
   reference:
