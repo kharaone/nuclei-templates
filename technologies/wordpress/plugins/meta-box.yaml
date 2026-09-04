@@ -1,7 +1,7 @@
 id: wordpress-meta-box
 
 info:
-  name: Meta Box Detection
+  name: Meta Box – A Framework for Dynamic Websites Detection
   author: ricardomaia
   severity: info
   reference:
