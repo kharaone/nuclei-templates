@@ -1,7 +1,7 @@
 id: wordpress-wp-mail-smtp
 
 info:
-  name: WP Mail SMTP by WPForms – The Most Popular SMTP and Email Log Plugin Detection
+  name: WP Mail SMTP by WPForms – Free SMTP Plugin with Gmail, Outlook, Amazon SES, SendGrid, Mailgun, Zoho & other SMTP Detection
   author: ricardomaia
   severity: info
   reference:
