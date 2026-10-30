@@ -1,7 +1,7 @@
 id: wordpress-wp-mail-smtp
 
 info:
-  name: WP Mail SMTP by WPForms – Free SMTP Plugin with Gmail, Outlook, Amazon SES, SendGrid, Mailgun, Zoho & other SMTP Detection
+  name: WP Mail SMTP by WPForms – SMTP for Reliable Email Delivery with Gmail, Outlook, Amazon SES, Brevo, Other SMTP & More Detection
   author: ricardomaia
   severity: info
   reference:

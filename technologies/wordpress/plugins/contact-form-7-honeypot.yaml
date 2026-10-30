@@ -1,7 +1,7 @@
 id: wordpress-contact-form-7-honeypot
 
 info:
-  name: CF7 Apps – Honeypot, Database, Redirection, Webhook, and Addons for Contact Form 7 Detection
+  name: CF7 Apps – Addons for Contact Form 7 (Honeypot, Database, Redirection, Webhook, etc.) Detection
   author: ricardomaia
   severity: info
   reference:
